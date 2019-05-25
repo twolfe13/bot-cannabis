@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Food bot</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Caveat|Kaushan+Script" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="orders" >
+		
+	<center>	  
+
+	<h1> Would you like to order some cannabis today? </h1>
+ 
+	<form method="POST" action="">
+	    <label>
+		Say "menu" to get started!  <input type="text" autocapitalize="sentences" name="meal_order" id="meal" placeholder="" required="" /> 
+		</label>  
+    <h4> {{ drink_order }} </h4> 
+	<h4> {{ meal_order }}  </h4>
+			
+		<input type="submit" name="submit" value="Send to bot!">
+    </form>
+ 
+	</center>
+</div>    
+    
+    <footer class = "footer">
+        <p> ~ A bot created to not waste brain power on odering cannabis </p>
+    </footer>
+
+</body>
+
+</html>

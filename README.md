@@ -1,5 +1,10 @@
-**dependencies: install flask**
+**USAGE**
 
+*dependencies: install flask*
+
+Run command: python canna-bot.py
+
+----------------------------
 
 colors 
 

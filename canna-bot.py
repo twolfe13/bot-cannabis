@@ -25,7 +25,7 @@ def register():
     'seeds': ['seed', 'seeds' ],
     'femanized':['femanized'],
     'non-femanized':['non-femanized','non femenaized'],
-    'greet': ['hello', 'hi', 'hey', 'menu'],
+    'greet': ['hello', 'hi', 'hey', 'menu', 'Menu'],
     'cannabis': ['flowers', 'order cannabis', 'order flowers'],
  #   'cannabisquantity': [''],
     'fuckyou': ['fuck you']}

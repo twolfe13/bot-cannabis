@@ -5,8 +5,8 @@
 Run command: python canna-bot.py
 
 **User Instructions** 
-Following the instructions, user needs to type "menu" 
-From there, the user is told a few different options (remember, this is a very simple beta) 
+Following the instructions, user needs to type "menu"   (the bot will also accept "hi" or "hey" = "menu")
+After, the user is told a few different options (remember, this is a very simple beta.. there are few steps) 
 
 ----------------------------
 

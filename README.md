@@ -4,6 +4,10 @@
 
 Run command: python canna-bot.py
 
+**User Instructions** 
+Following the instructions, user needs to type "menu" 
+From there, the user is told a few different options (remember, this is a very simple beta) 
+
 ----------------------------
 
 colors 
